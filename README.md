@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lukaskreibig/codingConjurors">
-    <img src="https://res.cloudinary.com/octavian2111/image/upload/v1623010816/CodingConjuror-screenshot_zp06zd.png" alt="Logo" >
+    <img src= "https://res.cloudinary.com/octavian2111/image/upload/v1623010921/coding-conjurors-logo_kbqfrl.png" alt="Logo" width="80" height="80" >
   </a>
 
   <h3 align="center">Coding Conjuror</h3>
@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Product Name Screen Shot](https://res.cloudinary.com/octavian2111/image/upload/v1623010921/coding-conjurors-logo_kbqfrl.png)
+![Product Name Screen Shot](https://res.cloudinary.com/octavian2111/image/upload/v1623010816/CodingConjuror-screenshot_zp06zd.png)
 
 When setting out to create our first project at Wild Code School, our vision was to design a fun experience for those taking their very first steps into learning Javascript for Web Development. That's why we decided on bringing together the worlds of magic and coding into a pixel art themed game.
 
